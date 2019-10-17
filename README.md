@@ -31,6 +31,13 @@
 
 ### 그동안 우리가 풀었던 문제들!
 
+#### 2019년 10월 19일 토요일
+- [Weekly Contest 158](https://leetcode.com/contest/weekly-contest-158/)
+- [1221. Split a String in Balanced Strings](https://leetcode.com/contest/weekly-contest-158/problems/split-a-string-in-balanced-strings/)
+- [1222. Queens That Can Attack the King](https://leetcode.com/contest/weekly-contest-158/problems/queens-that-can-attack-the-king/)
+- [1223. Dice Roll Simulation](https://leetcode.com/contest/weekly-contest-158/problems/dice-roll-simulation/)
+- [1224. Maximum Equal Frequency](https://leetcode.com/contest/weekly-contest-158/problems/maximum-equal-frequency/)
+
 #### 2019년 10월 12일 토요일
 - [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
 - [61. Rotate List](https://leetcode.com/problems/rotate-list/)
