@@ -38,7 +38,7 @@
 
 #### 2019년 10월 26일 토요일
 - [Dynamic Programming](https://leetcode.com/problemset/algorithms/?listId=79h8rn6&topicSlugs=dynamic-programming)
-- [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/weekly-contest-158/problems/split-a-string-in-balanced-strings/)
+- [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 - [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
 - [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
 - [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
