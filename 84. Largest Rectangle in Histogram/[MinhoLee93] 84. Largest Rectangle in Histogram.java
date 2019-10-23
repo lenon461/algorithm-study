@@ -11,7 +11,7 @@ class Solution {
         
 		for (int i = 0; i < N; i++) {
 			int temp = heights[i];
-			// ¿Þ
+			// ì™¼ìª½
 			for (int left = 1; i - left >= 0; left++) {
 				if (heights[i - left] < heights[i]) {
 					break;
@@ -20,7 +20,7 @@ class Solution {
 				}
 			}
 
-			// ¿À
+			// ì˜¤ë¥¸ìª½
 			for (int right = 1; i + right < N; right++) {
 				if (heights[i + right] < heights[i]) {
 					break;
