@@ -1,6 +1,4 @@
-
 class Solution {
-  
   /*
    * 84. Largest Rectangle in Histogram ¹®Á¦ 2019-10-23
    * 
