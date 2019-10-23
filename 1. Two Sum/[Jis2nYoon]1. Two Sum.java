@@ -2,8 +2,6 @@
  * Runtime: 14 ms, faster than 43.31% of Java online submissions for Two Sum.
  * Memory Usage: 36.5 MB, less than 99.48% of Java online submissions for Two Sum.
  * 29 / 29 test cases passed.
- * Runtime: 14 ms
- * Memory Usage: 36.5 MB
  */
 class Solution {
   public int[] twoSum(int[] nums, int target) {
