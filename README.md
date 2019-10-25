@@ -29,20 +29,18 @@
 --------------------------------------
 </br>
 
-### 같이 풀고 싶은 문제들!
-- /// [문제](링크) - 올린사람 /// 자유롭게 올려주세요!  
-- [1. Two Sum](https://leetcode.com/problems/two-sum/) - lenon461
-
-
-### 그동안 우리가 풀었던 문제들!
-
-#### 2019년 10월 26일 토요일
+### 이번주 풀어야 할 문제들!
 - [Dynamic Programming](https://leetcode.com/problemset/algorithms/?listId=79h8rn6&topicSlugs=dynamic-programming)
 - [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 - [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
 - [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
 - [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 
+### 같이 풀고 싶은 문제들!
+- /// [문제](링크) - 올린사람 /// 자유롭게 올려주세요!  
+- [1. Two Sum](https://leetcode.com/problems/two-sum/) - lenon461
+
+### 그동안 우리가 풀었던 문제들!
 
 #### 2019년 10월 19일 토요일
 - [Weekly Contest 158](https://leetcode.com/contest/weekly-contest-158/)
