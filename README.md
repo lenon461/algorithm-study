@@ -30,11 +30,12 @@
 </br>
 
 ### 이번주 풀어야 할 문제들!
-- Graph & Tree
-- [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
-- [207. Course Schedule](https://leetcode.com/problems/course-schedule/)
-- [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
-- [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
+- 2020 카카오 블라인드 코딩 테스트 1차 문제
+- [1. 문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
+- [2. 괄호변환](https://programmers.co.kr/learn/courses/30/lessons/60058)
+- [3. 자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)
+- [4. 가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060)
+- [해설](https://tech.kakao.com/2019/10/02/kakao-blind-recruitment-2020-round1/)
 
 ### 같이 풀고 싶은 문제들!
 - /// [문제](링크) - 올린사람 /// 자유롭게 올려주세요!  
@@ -42,6 +43,13 @@
 
 ### 그동안 우리가 풀었던 문제들!
 
+#### 2019년 11월 2일 토요일
+- Graph & Tree
+- [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
+- [207. Course Schedule](https://leetcode.com/problems/course-schedule/)
+- [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+- [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
+- 
 #### 2019년 10월 27일 토요일
 - [Dynamic Programming](https://leetcode.com/problemset/algorithms/?listId=79h8rn6&topicSlugs=dynamic-programming)
 - [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
