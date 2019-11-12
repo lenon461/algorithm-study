@@ -30,18 +30,25 @@
 </br>
 
 ### 이번주 풀어야 할 문제들!
-- 2020 카카오 블라인드 코딩 테스트 1차 문제
-- [1. 문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
-- [2. 괄호변환](https://programmers.co.kr/learn/courses/30/lessons/60058)
-- [3. 자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)
-- [4. 가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060)
-- [해설](https://tech.kakao.com/2019/10/02/kakao-blind-recruitment-2020-round1/)
+- Leetcode weekly-contest-162
+- [1. Cells with Odd Values in a Matrix](https://leetcode.com/contest/weekly-contest-162/problems/cells-with-odd-values-in-a-matrix)
+- [2. Reconstruct a 2-Row Binary Matrix](https://leetcode.com/contest/weekly-contest-162/problems/reconstruct-a-2-row-binary-matrix)
+- [3. Number of Closed Islands](https://leetcode.com/contest/weekly-contest-162/problems/number-of-closed-islands)
+- [4. Maximum Score Words Formed by Letters](https://leetcode.com/contest/weekly-contest-162/problems/maximum-score-words-formed-by-letters)
 
 ### 같이 풀고 싶은 문제들!
 - /// [문제](링크) - 올린사람 /// 자유롭게 올려주세요!  
 - [1. Two Sum](https://leetcode.com/problems/two-sum/) - lenon461
 
 ### 그동안 우리가 풀었던 문제들!
+
+### 2019년 11월 9일 토요일
+- 2020 카카오 블라인드 코딩 테스트 1차 문제
+- [1. 문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
+- [2. 괄호변환](https://programmers.co.kr/learn/courses/30/lessons/60058)
+- [3. 자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)
+- [4. 가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060)
+- [해설](https://tech.kakao.com/2019/10/02/kakao-blind-recruitment-2020-round1/)
 
 #### 2019년 11월 2일 토요일
 - Graph & Tree
