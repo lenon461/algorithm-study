@@ -30,7 +30,7 @@ const { stringify: toString } = JSON;
 const makeResultString = testResult =>
   `No.${toString(testResult.index)}\tArgs: ${toString(
     testResult.args
-  )}\tAnswer: ${toString(testResult.answer)}\tMyAnswer: ${toString(
+  )}\tAnswer: ${toString(testResult.target)}\tMyAnswer: ${toString(
     testResult.expect
   )}\t\tResult: ${testResult.ok ? "O" : "X"}`;
 
@@ -38,12 +38,12 @@ exports.runTest = (f, testCase) => {
   time("time");
   const testResult = testCase.map((tc, index) => {
     const result = { index, ...tc };
-    const { args, answer } = result;
+    const { args, target } = result;
 
     try {
       const expect = f(...args);
       result.expect = expect;
-      result.ok = compareAnswer(expect, answer);
+      result.ok = compareAnswer(expect, target);
     } catch (error) {
       result.error = error;
     }
