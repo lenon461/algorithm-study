@@ -14,7 +14,6 @@
 
 --------------------------------------
 ### :family: 누구나 스터디원이 될 수 있습니다!
->https://open.kakao.com/o/ggAapmHb  
 >오픈카톡방에 들어오셔서 이번주 문제를 풀고 푸시해주세요!  
 >스터디에 참여하시면 깃에 초대해드립니다!  
 >스터디 진행방향에 대한 피드백 언제나 환영합니다!!
@@ -28,50 +27,3 @@
 >5. 스터디규칙, 깃규칙 정하기
 --------------------------------------
 </br>
-
-### 이번주 풀어야 할 문제들!
-- Leetcode weekly-contest-162
-- [1. Cells with Odd Values in a Matrix](https://leetcode.com/contest/weekly-contest-162/problems/cells-with-odd-values-in-a-matrix)
-- [2. Reconstruct a 2-Row Binary Matrix](https://leetcode.com/contest/weekly-contest-162/problems/reconstruct-a-2-row-binary-matrix)
-- [3. Number of Closed Islands](https://leetcode.com/contest/weekly-contest-162/problems/number-of-closed-islands)
-- [4. Maximum Score Words Formed by Letters](https://leetcode.com/contest/weekly-contest-162/problems/maximum-score-words-formed-by-letters)
-
-### 같이 풀고 싶은 문제들!
-- /// [문제](링크) - 올린사람 /// 자유롭게 올려주세요!  
-- [1. Two Sum](https://leetcode.com/problems/two-sum/) - lenon461
-
-### 그동안 우리가 풀었던 문제들!
-
-### 2019년 11월 9일 토요일
-- 2020 카카오 블라인드 코딩 테스트 1차 문제
-- [1. 문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
-- [2. 괄호변환](https://programmers.co.kr/learn/courses/30/lessons/60058)
-- [3. 자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)
-- [4. 가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060)
-- [해설](https://tech.kakao.com/2019/10/02/kakao-blind-recruitment-2020-round1/)
-
-#### 2019년 11월 2일 토요일
-- Graph & Tree
-- [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
-- [207. Course Schedule](https://leetcode.com/problems/course-schedule/)
-- [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
-- [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
-- 
-#### 2019년 10월 27일 토요일
-- [Dynamic Programming](https://leetcode.com/problemset/algorithms/?listId=79h8rn6&topicSlugs=dynamic-programming)
-- [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
-- [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
-- [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
-- [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-
-#### 2019년 10월 19일 토요일
-- [Weekly Contest 158](https://leetcode.com/contest/weekly-contest-158/)
-- [1221. Split a String in Balanced Strings](https://leetcode.com/contest/weekly-contest-158/problems/split-a-string-in-balanced-strings/)
-- [1222. Queens That Can Attack the King](https://leetcode.com/contest/weekly-contest-158/problems/queens-that-can-attack-the-king/)
-- [1223. Dice Roll Simulation](https://leetcode.com/contest/weekly-contest-158/problems/dice-roll-simulation/)
-- [1224. Maximum Equal Frequency](https://leetcode.com/contest/weekly-contest-158/problems/maximum-equal-frequency/)
-
-#### 2019년 10월 12일 토요일
-- [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
-- [61. Rotate List](https://leetcode.com/problems/rotate-list/)
-- [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)

@@ -2,8 +2,8 @@ const { log, error, time, timeEnd } = console;
 const runTest = (f, testCase) => {
     const result = testCase
         .map((ele, index) => {
-            const { args, answer } = ele;
-            const expect = f(...args);
+            const { args, answer, logging } = ele;
+            const expect = f(...args, logging);
             return { index, result: answer === expect, answer, expect, args };
         })
         .map((ele) => {
@@ -24,7 +24,8 @@ const testCase = (data) => {
     return data.map((ele, index, arr) => {
         const args = ele[0];
         const answer = ele[1];
-        return { args, answer };
+        const logging = ele[2] || 0;
+        return { args, answer, logging };
     });
 };
 exports.runTest = runTest;
