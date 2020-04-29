@@ -14,6 +14,7 @@ const data = [
  * 팝 할때 열렸던 괄호와 인덱스가 맞는지 검사해서 Valid 체크
  * 종료시 큐에 남아있는 괄호가 없으면 Valid
  */
+
 const SyntaxChecker = function (input) {
   const open = "({[";
   const close = ")}]";
